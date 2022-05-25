@@ -18,3 +18,8 @@ aws.env
 # ide specific directories
 .idea
 .vscode
+Makefile
+
+# gsd specific
+gsd-verification-rules
+security-report/*
