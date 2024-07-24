@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:1.23rc2
 
 LABEL maintainer="james noonan (james.noonan@contino.io)"
 
